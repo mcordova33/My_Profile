@@ -1,0 +1,84 @@
+h1{
+  color: rgb(150, 150, 150);
+  font-family:'Segoe UI', sans-serif;
+  font-weight: bold;
+  margin: 5px;
+}
+
+h2{
+  color: rgb(132, 96, 189);
+  font-family: 'Segoe UI', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p{
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 16px;
+  padding: 10px;
+  color: rgb(100, 100, 100);
+}
+
+body{
+  background-color: rgb(230, 230, 230);
+}
+
+#avatar{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  padding-bottom: 0px;
+}
+
+.container{
+  align-items: center;
+}
+
+.card-ppal{
+  padding: 10px 10px;
+}
+
+.card-ppal a{
+  background-color: blueviolet;
+  text-decoration: none;
+  color: white;
+  padding: 10px 10px;
+  margin: 10px 10px;
+  border-radius: 5px;
+  font-family: Tahoma, sans-serif;
+  font-size: 14;
+}
+
+.card-container{
+  background-color: white;
+  padding: 40px;
+  margin: 20px auto;
+  width: 70%;
+  text-align: center;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 8px 8px 8px rgba(200, 200, 200, 1);
+}
+
+.rrss li{
+  list-style: none;
+  display: inline;
+  padding: 10px;
+}
+
+.list {
+  text-align: center;
+  font-size: 40px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.card-ppal a:hover {
+  background-color: rgb(180, 180, 180);
+}
+
+.list li:hover {
+  background-color: rgb(180, 180, 180);
+  border-radius: 15px;
+ }
